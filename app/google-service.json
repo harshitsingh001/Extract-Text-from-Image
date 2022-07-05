@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "404067950957",
+    "project_id": "my-awosome-project-id",
+    "storage_bucket": "my-awosome-project-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404067950957:android:12c1ba84a104b1d2ef7a64",
+        "android_client_info": {
+          "package_name": "com.example.my_mini_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404067950957-omrt7prdl77ehprpch97aihrvh91sutg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlPCpZdnoFPqKdfo5fSJtWVhupB6wQuIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404067950957-omrt7prdl77ehprpch97aihrvh91sutg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
